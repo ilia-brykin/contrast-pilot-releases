@@ -1,1 +1,19 @@
-{}
+{
+  "version": "0.1.2",
+  "notes": "Исправления и улучшения.",
+  "pub_date": "2025-10-05T18:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://.../ContrastPilot_0.1.2_x64.msi.zip",
+      "signature": "СОДЕРЖИМОЕ_ФАЙЛА .msi.zip.sig"
+    },
+    "darwin-aarch64": {
+      "url": "https://.../ContrastPilot_0.1.2_aarch64.app.tar.gz",
+      "signature": "СОДЕРЖИМОЕ_ФАЙЛА .app.tar.gz.sig"
+    },
+    "linux-x86_64": {
+      "url": "https://.../ContrastPilot_0.1.2_x86_64.AppImage.tar.gz",
+      "signature": "СОДЕРЖИМОЕ_ФАЙЛА .tar.gz.sig"
+    }
+  }
+}

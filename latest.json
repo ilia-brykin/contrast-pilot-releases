@@ -1,10 +1,10 @@
 {
-  "version": "0.1.4",
-  "notes": "Bug fixes and improvements.",
-  "pub_date": "2025-10-05T18:00:00Z",
+  "version": "0.1.5",
+  "notes": "Bug fixes and improvements. Version 0.1.5.",
+  "pub_date": "2025-10-08T23:06:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/ilia-brykin/contrast-pilot-releases/main/win/Contrast%20Pilot_0.1.4_x64_en-US.msi",
+      "url": "https://raw.githubusercontent.com/ilia-brykin/contrast-pilot-releases/main/win/Contrast%20Pilot_0.1.5_x64_en-US.msi",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRml2RHBWMmRuU1dtbUVORHZEZkVIcWloVC9HOUtKYTVTcHZNUEI0R3hhUmFWMldLMU9CcjRPTXJNaUQ5WjJJdndqSlEwNUZmWlk5OVJtZFhMbWRONWhFVllGeVZwbnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5OTQ1NzE4CWZpbGU6Q29udHJhc3QgUGlsb3RfMC4xLjRfeDY0X2VuLVVTLm1zaQp1cEhwRk15THNoWGVYOUNpM3NRVkdSb2plSXB4bWd4ZStoclAwRVR0dWwrYW40QmkwWnhqOGNjUDlaVVEzTDc5c0ZnOFllcW9lMVhpaGJubjhFRGVDdz09Cg=="
     },
     "darwin-aarch64": {

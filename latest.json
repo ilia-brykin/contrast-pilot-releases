@@ -1,7 +1,7 @@
 {
-  "version": "0.1.5",
-  "notes": "Bug fixes and improvements. Version 0.1.5.",
-  "pub_date": "2025-10-08T23:06:00Z",
+  "version": "0.1.6",
+  "notes": "Bug fixes and improvements. Version 0.1.6.",
+  "pub_date": "2025-10-12T20:43:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://raw.githubusercontent.com/ilia-brykin/contrast-pilot-releases/main/win/Contrast%20Pilot_0.1.6_x64_en-US.msi",

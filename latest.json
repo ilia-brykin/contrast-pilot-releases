@@ -4,8 +4,8 @@
   "pub_date": "2025-10-08T23:06:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/ilia-brykin/contrast-pilot-releases/main/win/Contrast%20Pilot_0.1.5_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRml2RHBWMmRuU1Jmc0pweWpEclBRMDVFWWUwRVZJRUd0MERINGd6blpxZzZKcUw3N09EZU1nRGJLK2wwSjVJbGJHN0d2NGwvdm9BbUhzS1Ribll5aWJ2N0F4T1BqWVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5OTU3NzY0CWZpbGU6Q29udHJhc3QgUGlsb3RfMC4xLjVfeDY0X2VuLVVTLm1zaQpJT09GankwNzR1aWtzRXRyazd4QVIwK3RUdy8rV1hIOFBjejY0VUdKRXRQcWhHUEtBbFk5RGVDdlowNzIzc0lpWUtNYjdVeWN6QUt3eGt2eXRETytBQT09Cg=="
+      "url": "https://raw.githubusercontent.com/ilia-brykin/contrast-pilot-releases/main/win/Contrast%20Pilot_0.1.6_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRml2RHBWMmRuU1lGMVBvRDgzY09nNklOemo4Q3o5dDg4aWxDa082SFc4OXZ2MkdjMmhGOVlyWWhJMWJaSVdVWGh3c3h5TDRmOVhYeEpnWmJKK2dNNnlYOFcyR3ZBeXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMjkzNjEzCWZpbGU6Q29udHJhc3QgUGlsb3RfMC4xLjZfeDY0X2VuLVVTLm1zaQpkZVZQYTB6cXBJN0RXZ3ptYWdQOEJjekgvMHA2RFVaSi9NWlEzQTVlUE4rZmVPblEzVGxzTEIrQkF1ZUNaK1N3WlhFTGJWS2FCT1JOeWJxNlgwOEpBQT09Cg=="
     },
     "darwin-aarch64": {
       "url": "https://.../ContrastPilot_0.1.2_aarch64.app.tar.gz",

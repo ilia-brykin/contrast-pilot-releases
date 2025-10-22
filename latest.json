@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Bug fixes and improvements. Version 0.1.6.",
+  "version": "0.1.7",
+  "notes": "Bug fixes and improvements. Version 0.1.7.",
   "pub_date": "2025-10-12T20:43:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/ilia-brykin/contrast-pilot-releases/main/win/Contrast%20Pilot_0.1.6_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRml2RHBWMmRuU1lGMVBvRDgzY09nNklOemo4Q3o5dDg4aWxDa082SFc4OXZ2MkdjMmhGOVlyWWhJMWJaSVdVWGh3c3h5TDRmOVhYeEpnWmJKK2dNNnlYOFcyR3ZBeXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMjkzNjEzCWZpbGU6Q29udHJhc3QgUGlsb3RfMC4xLjZfeDY0X2VuLVVTLm1zaQpkZVZQYTB6cXBJN0RXZ3ptYWdQOEJjekgvMHA2RFVaSi9NWlEzQTVlUE4rZmVPblEzVGxzTEIrQkF1ZUNaK1N3WlhFTGJWS2FCT1JOeWJxNlgwOEpBQT09Cg=="
+      "url": "https://raw.githubusercontent.com/ilia-brykin/contrast-pilot-releases/main/win/Contrast%20Pilot_0.1.7_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRml2RHBWMmRuU1FsbThuQjVMWmZVQitHeGtkMFZBa3ZhMmNJL2FTY3RrNGtrdDZTOGxqNGQ4WDlINWM2SkhBMEU3cXU0Z2hXdzN4Nmo3NjlENHIra0MzV20rNXVGSGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMTY1MzExCWZpbGU6Q29udHJhc3QgUGlsb3RfMC4xLjdfeDY0X2VuLVVTLm1zaQpyQlR3cG9TdUhqWjdma1k2bXFHLzBXdVVjS2kzcXlidlZqenpWQU9yVmVIVTcwZE5qa0RoNFZ1aTE4eGdTTWhMZThaZWZpUkU2L1lFTjB1bHdmeVdCUT09Cg=="
     },
     "darwin-aarch64": {
       "url": "https://.../ContrastPilot_0.1.2_aarch64.app.tar.gz",
